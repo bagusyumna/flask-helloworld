@@ -1,3 +1,1 @@
-# Learning Git in VSCode
-
--- second commit
+# Simple Hello World App using Flask Framework
